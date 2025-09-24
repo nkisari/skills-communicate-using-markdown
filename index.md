@@ -9,4 +9,8 @@ for i in range(7):
   print(i)
 ```
 
+- [x] Set up terminal
+- [x] Install Anaconda
+- [ ] Run start-up commands
+
 
